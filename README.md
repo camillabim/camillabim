@@ -1,4 +1,4 @@
-### <h1>Hi th,ere<h1> 👋
+### <h1>Hi there<h1> 👋
 
 - 🔭 I’m currently working on development web using Java
 - 🌱 I’m currently learning about Spring
