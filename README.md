@@ -18,6 +18,10 @@ Trabalho com análise e evolução de sistemas web, integração entre aplicaç�
 - Integração entre sistemas
 - Apoio à evolução de sistemas corporativos
 
+## Projeto atual
+
+Estou trabalhando no **Norte Forense**, uma plataforma jurídica para conectar clientes, processos, documentos e a rotina do escritório. O site institucional está em preparação para o piloto beta: [norteforense.com.br](https://norteforense.com.br).
+
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/camillabim)
