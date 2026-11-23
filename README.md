@@ -1,18 +1,23 @@
-### <h1>Hi there<h1> 👋
+# Olá, eu sou Camilla Bim 👋
 
-- 🔭 I’m currently working on development web using Java
+### Analista de Sistemas | Desenvolvedora Java Backend
 
-<!--
-**camillabim/camillabim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho com análise e evolução de sistemas web, integração entre aplicações e desenvolvimento backend. Tenho experiência com Java, APIs REST e SOAP, SQL e sistemas corporativos.
 
-Here are some ideas to get you started:
+## Tecnologias
 
+- **Backend:** Java, Spring Boot
+- **APIs:** REST, SOAP, OpenAPI
+- **Banco de dados:** PostgreSQL, SQL
+- **Ferramentas:** Git, Maven, Jenkins, Docker e Tomcat
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+## Sobre minha atuação
+
+- Levantamento e análise de requisitos
+- Desenvolvimento e manutenção de aplicações
+- Integração entre sistemas
+- Apoio à evolução de sistemas corporativos
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/camillabim)
